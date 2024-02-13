@@ -27,4 +27,13 @@ My goal with this is to do the two together as an example for those who will fol
 
 - I also have opened a terminal window on that new repository directory.  
 
+- At this point I pushed the existing contents as my initial changes labeled 'Begin README.md' 
+
+- The next step was to start writing this process, so using my favorite text editor (vim) on my favorite platform (Mac) I created Notes.md and wrote up the process so far.  Then I pushed that with the label 'Create Notes.md'. 
+
+- Now, I'm ready to start the challenge proper.  Following the instructions here:
+<https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI/hub> 
+I noticed in that process that the starter files also contain a README.md file that is used for the instructions on how to complete the challenge.  To avoid loosing my original README.md I renamed it to myREADME.md.  That now looks like a new file and the newly downloaded README.md looks like changes to my original.  No matter, they are both there now.   So with the those files in place I went ahead and pushed everything with the commit label "Download FEM starter files".  
+
+- So, now my next step is to follow the instructions in the new README.md file and begin work...
 
