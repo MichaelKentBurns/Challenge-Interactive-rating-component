@@ -37,3 +37,13 @@ I noticed in that process that the starter files also contain a README.md file t
 
 - So, now my next step is to follow the instructions in the new README.md file and begin work...
 
+Confession: In an effort to get this writeup done, and since I'm not fluent in CSS and doing interactive JS and HTML, I am cheating on this challenge.  I found a couple of YouTube videos that walk through this process.  So, I'm just copying their work to get started.   Frankly the first one I tried is not terribly helpful.  He uses a fancy IDE that does a lot of the code completion and he tends to cut big chunks into his copy buffer and then invoke a code completion then pastes the copy buffer into it.  He does this quickly without explaining much.  Since I don't have the same IDE setup as he is using I don't get the exact same results.   When I push this code, the GitHub change viewer does not always match the before and after lines.It does not reflect the way I would make the code changes.   But, not a big deal. 
+
+I have now completed the basic editing of the index.html file and creation of index.css and index.js files.
+
+I pushed that as 'Issue 3 - loock interactive'.
+
+- I then added another issue that I want to demonstrate, and since I have a somewhat changed web page, it is now time to demonstrate 'Issue 4 - publish the current state of the main branch as a Github Page' 
+You can read the instructions of how to do that in the Issue 4 description.  
+The end result is a fully published page that will be kept up to date every time I push more changes:
+<https://michaelkentburns.github.io/Challenge-Interactive-rating-component/>
